@@ -1,0 +1,6 @@
+J:\SDI\COBOL\lambertth_VSAM4\bin\Debug\lambertth_VSAM4.exe
+J:\SDI\COBOL\lambertth_VSAM4\bin\Debug\lambertth_VSAM4.pdb
+J:\SDI\COBOL\lambertth_VSAM4\obj\Debug\lambertth_VSAM4.cblproj.CoreCompileInputs.cache
+J:\SDI\COBOL\lambertth_VSAM4\obj\Debug\lambertth_VSAM4.exe
+J:\SDI\COBOL\lambertth_VSAM4\obj\Debug\lambertth_VSAM4.pdb
+J:\SDI\COBOL\lambertth_VSAM4\obj\Debug\lambertth_VSAM4.cblprojResolveAssemblyReference.cache

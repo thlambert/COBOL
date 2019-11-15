@@ -1,0 +1,6 @@
+J:\SDI\COBOL\lambertth_AltINDX\bin\Debug\lambertth_AltINDX.exe
+J:\SDI\COBOL\lambertth_AltINDX\bin\Debug\lambertth_AltINDX.pdb
+J:\SDI\COBOL\lambertth_AltINDX\obj\Debug\lambertth_AltINDX.cblprojAssemblyReference.cache
+J:\SDI\COBOL\lambertth_AltINDX\obj\Debug\lambertth_AltINDX.cblproj.CoreCompileInputs.cache
+J:\SDI\COBOL\lambertth_AltINDX\obj\Debug\lambertth_AltINDX.exe
+J:\SDI\COBOL\lambertth_AltINDX\obj\Debug\lambertth_AltINDX.pdb

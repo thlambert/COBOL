@@ -1,0 +1,4 @@
+^J:\SDI\COBOL\LAMBERTTH_ALTINDX\LISTEMPAV2.CBL
+
+^J:\SDI\COBOL\LAMBERTTH_ALTINDX\LISTEMPA.CBL
+MFCBT_Directives=anim cobidy".\bin\Debug\" sourcetabstop"4" noquery osext() warnings"1" max-error"100" ilgen noint ilassembly"lambertth_AltINDX" noilstdlib ilref"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Core.dll" ilref"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Data.dll" ilref"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.dll" ilref"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Xml.dll" ilref"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\mscorlib.dll" ilversion"1.0.0.0" constant"DEBUG(1)" ILSOURCE"J:\SDI\COBOL\lambertth_AltINDX\LISTEMPAV2.CBL" . MFCBT_CopyPaths=

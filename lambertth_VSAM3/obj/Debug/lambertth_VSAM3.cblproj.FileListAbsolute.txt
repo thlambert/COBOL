@@ -1,0 +1,12 @@
+J:\SDI\lambertth_VSAM3\bin\Debug\lambertth_VSAM3.exe
+J:\SDI\lambertth_VSAM3\bin\Debug\lambertth_VSAM3.pdb
+J:\SDI\lambertth_VSAM3\obj\Debug\lambertth_VSAM3.cblprojResolveAssemblyReference.cache
+J:\SDI\lambertth_VSAM3\obj\Debug\lambertth_VSAM3.cblproj.CoreCompileInputs.cache
+J:\SDI\lambertth_VSAM3\obj\Debug\lambertth_VSAM3.exe
+J:\SDI\lambertth_VSAM3\obj\Debug\lambertth_VSAM3.pdb
+J:\SDI\COBOL\lambertth_VSAM3\bin\Debug\lambertth_VSAM3.exe
+J:\SDI\COBOL\lambertth_VSAM3\bin\Debug\lambertth_VSAM3.pdb
+J:\SDI\COBOL\lambertth_VSAM3\obj\Debug\lambertth_VSAM3.cblproj.CoreCompileInputs.cache
+J:\SDI\COBOL\lambertth_VSAM3\obj\Debug\lambertth_VSAM3.exe
+J:\SDI\COBOL\lambertth_VSAM3\obj\Debug\lambertth_VSAM3.pdb
+J:\SDI\COBOL\lambertth_VSAM3\obj\Debug\lambertth_VSAM3.cblprojResolveAssemblyReference.cache
