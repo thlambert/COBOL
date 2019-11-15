@@ -1,0 +1,12 @@
+J:\SDI\COBOL\VSAM part2\VSAM part2\bin\Debug\VSAM_part2.exe
+J:\SDI\COBOL\VSAM part2\VSAM part2\bin\Debug\VSAM_part2.pdb
+J:\SDI\COBOL\VSAM part2\VSAM part2\obj\Debug\VSAM part2.cblprojResolveAssemblyReference.cache
+J:\SDI\COBOL\VSAM part2\VSAM part2\obj\Debug\VSAM part2.cblproj.CoreCompileInputs.cache
+J:\SDI\COBOL\VSAM part2\VSAM part2\obj\Debug\VSAM_part2.exe
+J:\SDI\COBOL\VSAM part2\VSAM part2\obj\Debug\VSAM_part2.pdb
+J:\Programming\SDI\COBOL\VSAM part2\VSAM part2\bin\Debug\VSAM_part2.exe
+J:\Programming\SDI\COBOL\VSAM part2\VSAM part2\bin\Debug\VSAM_part2.pdb
+J:\Programming\SDI\COBOL\VSAM part2\VSAM part2\obj\Debug\VSAM part2.cblprojResolveAssemblyReference.cache
+J:\Programming\SDI\COBOL\VSAM part2\VSAM part2\obj\Debug\VSAM part2.cblproj.CoreCompileInputs.cache
+J:\Programming\SDI\COBOL\VSAM part2\VSAM part2\obj\Debug\VSAM_part2.exe
+J:\Programming\SDI\COBOL\VSAM part2\VSAM part2\obj\Debug\VSAM_part2.pdb

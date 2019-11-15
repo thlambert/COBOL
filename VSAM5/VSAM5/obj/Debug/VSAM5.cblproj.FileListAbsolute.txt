@@ -1,0 +1,12 @@
+K:\Courses\CSSE\landgraf\CS3530\lam_squ_ste\VSAM5\VSAM5\bin\Debug\VSAM5.exe
+K:\Courses\CSSE\landgraf\CS3530\lam_squ_ste\VSAM5\VSAM5\bin\Debug\VSAM5.pdb
+K:\Courses\CSSE\landgraf\CS3530\lam_squ_ste\VSAM5\VSAM5\obj\Debug\VSAM5.cblprojResolveAssemblyReference.cache
+K:\Courses\CSSE\landgraf\CS3530\lam_squ_ste\VSAM5\VSAM5\obj\Debug\VSAM5.cblproj.CoreCompileInputs.cache
+K:\Courses\CSSE\landgraf\CS3530\lam_squ_ste\VSAM5\VSAM5\obj\Debug\VSAM5.exe
+K:\Courses\CSSE\landgraf\CS3530\lam_squ_ste\VSAM5\VSAM5\obj\Debug\VSAM5.pdb
+J:\SDI\COBOL\VSAM5\VSAM5\bin\Debug\VSAM5.exe
+J:\SDI\COBOL\VSAM5\VSAM5\bin\Debug\VSAM5.pdb
+J:\SDI\COBOL\VSAM5\VSAM5\obj\Debug\VSAM5.cblprojResolveAssemblyReference.cache
+J:\SDI\COBOL\VSAM5\VSAM5\obj\Debug\VSAM5.cblproj.CoreCompileInputs.cache
+J:\SDI\COBOL\VSAM5\VSAM5\obj\Debug\VSAM5.exe
+J:\SDI\COBOL\VSAM5\VSAM5\obj\Debug\VSAM5.pdb

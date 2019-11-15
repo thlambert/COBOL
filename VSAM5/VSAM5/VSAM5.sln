@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "VSAM5", "VSAM5.cblproj", "{AE82BFE4-24D4-437E-B235-C5771DAC960B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE82BFE4-24D4-437E-B235-C5771DAC960B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE82BFE4-24D4-437E-B235-C5771DAC960B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE82BFE4-24D4-437E-B235-C5771DAC960B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE82BFE4-24D4-437E-B235-C5771DAC960B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B5E1F41-D5EB-4499-990B-44F5027B8813}
+	EndGlobalSection
+EndGlobal
