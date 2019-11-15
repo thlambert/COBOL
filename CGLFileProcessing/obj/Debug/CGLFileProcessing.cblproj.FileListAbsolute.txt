@@ -1,0 +1,6 @@
+J:\CS3530\CGLFileProcessing\bin\Debug\CGLFileProcessing.exe
+J:\CS3530\CGLFileProcessing\bin\Debug\CGLFileProcessing.pdb
+J:\CS3530\CGLFileProcessing\obj\Debug\CGLFileProcessing.cblprojResolveAssemblyReference.cache
+J:\CS3530\CGLFileProcessing\obj\Debug\CGLFileProcessing.cblproj.CoreCompileInputs.cache
+J:\CS3530\CGLFileProcessing\obj\Debug\CGLFileProcessing.exe
+J:\CS3530\CGLFileProcessing\obj\Debug\CGLFileProcessing.pdb

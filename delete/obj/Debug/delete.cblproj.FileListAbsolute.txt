@@ -1,0 +1,6 @@
+J:\SDI\COBOL\delete\bin\Debug\delete.exe
+J:\SDI\COBOL\delete\bin\Debug\delete.pdb
+J:\SDI\COBOL\delete\obj\Debug\delete.cblprojAssemblyReference.cache
+J:\SDI\COBOL\delete\obj\Debug\delete.cblproj.CoreCompileInputs.cache
+J:\SDI\COBOL\delete\obj\Debug\delete.exe
+J:\SDI\COBOL\delete\obj\Debug\delete.pdb

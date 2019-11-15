@@ -1,0 +1,6 @@
+J:\SDI\COBOL\Homework5\Program\bin\Debug\Homework5.exe
+J:\SDI\COBOL\Homework5\Program\bin\Debug\Homework5.pdb
+J:\SDI\COBOL\Homework5\Program\obj\Debug\Lambertth_HW5.cblprojResolveAssemblyReference.cache
+J:\SDI\COBOL\Homework5\Program\obj\Debug\Lambertth_HW5.cblproj.CoreCompileInputs.cache
+J:\SDI\COBOL\Homework5\Program\obj\Debug\Homework5.exe
+J:\SDI\COBOL\Homework5\Program\obj\Debug\Homework5.pdb
